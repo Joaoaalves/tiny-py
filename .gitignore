@@ -4,6 +4,7 @@
 # IF SOMEONE USES AI
 **CLAUDE.md
 .claude/*
+!.claude/commands/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
