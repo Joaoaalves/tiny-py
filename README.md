@@ -59,7 +59,7 @@ async with AsyncTinyClient(token="your_token", plan="advanced") as client:
 | **Products** | `search`, `iter_search`, `get`, `get_stock`, `update_stock`, `update_price` |
 | **Orders** | `search`, `iter_search`, `get` |
 
-See the [roadmap](https://github.com/your-org/tiny-py) for planned resources.
+See the [roadmap](https://github.com/Joaoaalves/tiny-py) for planned resources.
 
 ## Error handling
 
