@@ -20,3 +20,4 @@
   - [Async Usage](guides/async.md)
 
 - [Roadmap](roadmap.md)
+- [Claude Code Skill](skill.md)
