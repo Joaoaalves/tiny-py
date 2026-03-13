@@ -18,3 +18,5 @@
   - [FastAPI](guides/fastapi.md)
   - [RabbitMQ Workers](guides/rabbitmq.md)
   - [Async Usage](guides/async.md)
+
+- [Roadmap](roadmap.md)
